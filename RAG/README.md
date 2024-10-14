@@ -15,7 +15,7 @@ source: https://gradientflow.com/best-practices-in-retrieval-augmented-generatio
 ## Setup
 
 1. **Download `data.zip`**: Please download the `data.zip` file and upload it to your Google Colab environment.
-2. **Unzip the file**: Unzip the data by running the following command in Colab:
+2. **Unzip the file**: Unzip the data by running the following command in Colab `BKMS2_hands_on_4.ipynb`:
 
     ```bash
     !unzip /content/data.zip -d /content
