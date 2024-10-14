@@ -6,7 +6,7 @@
 
 This repository contains the materials for **BKMS2 Hands-on #4: Developing a Q&A system based on Retrieval Augmented Generation (RAG)**. In this hands-on exercise, we explore how to develop a Q&A system that utilizes a combination of document retrieval and generation, leveraging OpenAI's API and ChromaDB as a vector store.
 
-<p>
+<p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
 </p>
 
