@@ -10,7 +10,7 @@ This repository contains the materials for **BKMS2 Hands-on #4: Developing a Q&A
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
 </p>
 
-To ensure consistency in the Python module dependencies for this hands-on exercise, we will be using **Google Colab**. All necessary dependencies have been defined within the Colab environment to avoid any version conflicts or installation issues.
+To ensure consistency in the Python module dependencies for this hands-on exercise, we will be using **Google Colab**.
 
 1. **Download the notebook**: Download the `BKMS2_hands_on_4.ipynb` file from this repository.
 2. **Open in Colab**: Upload and open the notebook in Google Colab.
