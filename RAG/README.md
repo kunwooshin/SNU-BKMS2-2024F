@@ -6,7 +6,7 @@
 
 This repository contains the materials for **BKMS2 Hands-on #4: Developing a Q&A system based on Retrieval Augmented Generation (RAG)**. In this hands-on exercise, we explore how to develop a Q&A system that utilizes a combination of document retrieval and generation, leveraging OpenAI's API and ChromaDB as a vector store.
 
-In this hands-on session, all the required Python module dependencies are already handled in the provided Jupyter notebook. To get started:
+To ensure consistency in the Python module dependencies for this hands-on exercise, we will be using Google Colab. All necessary dependencies have been defined within the Colab environment to avoid any version conflicts or installation issues.
 
 1. **Download the notebook**: Download the `BKMS2_hands_on_4.ipynb` file from this repository.
 2. **Open in Colab**: Upload and open the notebook in Google Colab.
