@@ -35,3 +35,5 @@ source: https://gradientflow.com/best-practices-in-retrieval-augmented-generatio
     # Enter your OpenAI API key
     OPENAI_API_KEY = getpass("Please enter your OpenAI API key: ")
     ```
+
+## References
