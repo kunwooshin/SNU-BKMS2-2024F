@@ -1,0 +1,11 @@
+openai
+chromadb
+langchain
+langchain_openai
+langchain-text-splitters
+langchain_chroma
+playwright
+langchain_community
+langchain-unstructured
+html2text
+pypdf
