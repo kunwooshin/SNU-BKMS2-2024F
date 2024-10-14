@@ -3,7 +3,8 @@
 - **TA**:         snu.vldb.ta@gmail.com
 
 ## Overview
-
+RAG 기본 구조 구현 및 langchain 활용.
+데이터사이언스 공지와 웹 url 데이터를 이용한 GSDS용 챗봇 간단 구현
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
@@ -14,6 +15,8 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
 1. **Download the notebook**: Download the `BKMS2_hands_on_4.ipynb` file from this repository.
 2. **Open in Colab**: Upload and open the notebook in Google Colab.
 
+## Requirements
+Setup이 잘되는지 실제로 테스트 한 번 해보고 오고 잘 안된다면 조교에게 문의.
 
 ## Setup
 
@@ -40,3 +43,4 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
     ```
 
 ## References
+langchain 관련 문서들..
