@@ -9,5 +9,6 @@
 source: https://gradientflow.com/best-practices-in-retrieval-augmented-generation/
 
 ## Setup
-1. Download data.zip in this directory and upload it in BKMS2-hands-on-#4.ipynb
+1. Download ```data.zip``` in this directory and upload it in ```BKMS2-hands-on-#4.ipynb```
+2. 
 ```!pip install -r /content/data/requirements.txt```
