@@ -9,8 +9,7 @@
 source: https://gradientflow.com/best-practices-in-retrieval-augmented-generation/
 
 ## Setup
-1. Download ```data.zip``` in this directory and upload the zip file in
-```bash
-  !unzip /content/data.zip -d /content
-  !pip install -r /content/data/requirements.txt
-```
+1. Download ```data.zip``` and upload file in Google Colab
+
+```!unzip /content/data.zip -d /content```
+```!pip install -r /content/data/requirements.txt```
