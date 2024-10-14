@@ -11,5 +11,6 @@ source: https://gradientflow.com/best-practices-in-retrieval-augmented-generatio
 ## Setup
 1. Download ```data.zip``` and upload file in Google Colab
 
-```!unzip /content/data.zip -d /content```
-```!pip install -r /content/data/requirements.txt```
+  ```!unzip /content/data.zip -d /content```
+
+  ```!pip install -r /content/data/requirements.txt```
