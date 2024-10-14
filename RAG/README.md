@@ -4,7 +4,6 @@
 
 ## Overview
 
-This repository contains the materials for **BKMS2 Hands-on #4: Developing a Q&A system based on Retrieval Augmented Generation (RAG)**.
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
@@ -39,5 +38,6 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
     # Enter your OpenAI API key
     OPENAI_API_KEY = getpass("Please enter your OpenAI API key: ")
     ```
+
 
 ## References
