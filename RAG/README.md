@@ -30,10 +30,8 @@ source: https://gradientflow.com/best-practices-in-retrieval-augmented-generatio
 4. **Set up OpenAI API key**: To run the generation part, you'll need to set your OpenAI API key. Use the following code to securely enter your key:
 
     ```python
-    import openai
     from getpass import getpass
 
     # Enter your OpenAI API key
     OPENAI_API_KEY = getpass("Please enter your OpenAI API key: ")
-    openai.api_key = OPENAI_API_KEY
     ```
