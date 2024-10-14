@@ -3,3 +3,4 @@
 - **TA**:         snu.vldb.ta@gmail.com
   
 ## Retrieval Augmented Generation (RAG)
+/assets/img/rag_image1.png
