@@ -3,7 +3,7 @@
 - **TA**:         snu.vldb.ta@gmail.com
   
 ## Retrieval Augmented Generation (RAG)
-<p align="center">
+<p>
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
 </p>
 source: https://gradientflow.com/best-practices-in-retrieval-augmented-generation/
