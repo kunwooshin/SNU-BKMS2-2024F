@@ -39,21 +39,4 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
     OPENAI_API_KEY = getpass("Please enter your OpenAI API key: ")
     ```
 
-## Table of Contents for BKMS2 Hands-on #4
-
-### Colab Setup
-Before starting, make sure to set up the environment by downloading the necessary data and installing dependencies. All the steps can be executed within Google Colab.
-
-### Basic Implementation
-1-1. **Load and Split the Document**: Load the source document and split it into manageable chunks for processing.  
-1-2. **Store in a Vector Database**: Store the document chunks in a vector database (e.g., ChromaDB) for efficient retrieval.  
-1-3. **Retrieval, Augmentation and Generation (RAG)**: Perform document retrieval and generate a response using OpenAI's API, combining retrieved data with a generative model.  
-1-4. **Various Distance Metrics for Semantic Search**: Explore different distance metrics (e.g., cosine, Euclidean) to improve the semantic search performance.
-
-### Implementing RAG with Langchain
-2-1. **Load and Store Data from URL**: Fetch and store data from a URL for RAG processing.  
-2-2. **Load and Store Data from TXT**: Load data from a local text file and store it in the vector database.  
-2-3. **Retrieval, Augmentation and Generation (RAG)**: Repeat the RAG process using Langchain to retrieve and generate context-aware answers.  
-2-4. **Prototype for Chatbot**: Develop a basic chatbot prototype that integrates retrieval and generation to answer user queries based on the stored data.
-
 ## References
