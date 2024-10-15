@@ -44,4 +44,7 @@ The key is only available during the session and will expire once the session en
    nltk.download('punkt')
 
 ## References
-langchain 관련 문서들..
+https://docs.trychroma.com/guides
+https://python.langchain.com/docs/tutorials/rag/
+https://python.langchain.com/docs/how_to/
+
