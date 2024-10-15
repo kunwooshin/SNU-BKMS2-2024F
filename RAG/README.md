@@ -44,9 +44,8 @@ The key is only available during the session and will expire once the session en
    nltk.download('punkt')
 
 ## References
-https://docs.trychroma.com/guides
 
-https://python.langchain.com/docs/tutorials/rag/
-
-https://python.langchain.com/docs/how_to/
+Guides for ChromaDB: https://docs.trychroma.com/guides
+Guides for LangChain: https://python.langchain.com/docs/how_to/
+Another tutorial on RAG using LangChain: https://python.langchain.com/docs/tutorials/rag/
 
