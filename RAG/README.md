@@ -1,10 +1,11 @@
-# BKMS2 Hands-on #4: Developing a Q&A system based on RAG
+# BKMS2 Hands-on #4: Developing a Q&A chatbot based on RAG
 - **Instructor**: Prof. Sang-Won Lee (swlee69@snu.ac.kr)
-- **TA**:         snu.vldb.ta@gmail.com
+- **TA**:         Kun-Woo Shin (kunwooshin@snu.ac.kr / snu.vldb.ta@gmail.com)
 
 ## Overview
-RAG 기본 구조 구현 및 langchain 활용.
-데이터사이언스 공지와 웹 url 데이터를 이용한 GSDS용 챗봇 간단 구현
+In this hands-on session, we will implement the fundamental components of the Retrieval-Augmented Generation (RAG) process, as discussed in previous lessons. Afterward, we will replicate the same process using LangChain to understand how it simplifies the creation of RAG-based chatbot applications.
+
+The data for this session is collected from the Graduate School of Data Science (GSDS) website and file shared on the Slack channel. Using this data, we will build a simple RAG-based Q&A chatbot of GSDS.
 
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
