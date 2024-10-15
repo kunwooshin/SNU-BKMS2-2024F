@@ -22,7 +22,7 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
 Before the class, follow the setup instructions below in your Google Colab environment and test whether everything works correctly. If it doesn’t work properly, contact the TA for assistance.​
 
 An API key for OpenAI models is not required, as you will be provided with a key during the session.​
-The key is only available during the session and will expire once the session ends. ***Please do not use it for anything other than the models specified in the code for the class exercises.***​
+The key is only available during the session and will expire once the session ends. _**Please do not use it for anything other than the models specified in the code for the class exercises.**_
 
 ## Setup
 
