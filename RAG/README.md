@@ -8,6 +8,7 @@ In this hands-on session, we will implement the fundamental components of the Re
 
 The data for this session is collected from the Graduate School of Data Science (GSDS) website and file shared on the Slack channel. Using this data, we will build a simple RAG-based Q&A chatbot of GSDS.
 
+
 <p align="center">
   <img width="70%" src="https://github.com/user-attachments/assets/a590a8c9-9a95-4bc2-89e4-26c049028e75">
 </p>
@@ -18,7 +19,7 @@ To ensure consistency in the Python module dependencies for this hands-on exerci
 2. **Open in Colab**: Upload and open the notebook in Google Colab.
 
 ## Requirements
-Setup이 잘되는지 실제로 테스트 한 번 해보고 오고 잘 안된다면 조교에게 문의.
+Before the class, follow the setup instructions below in your Google Colab environment and test whether everything works correctly. If it doesn’t work properly, contact the TA for assistance.​⬤
 
 ## Setup
 
@@ -34,15 +35,10 @@ Setup이 잘되는지 실제로 테스트 한 번 해보고 오고 잘 안된다
     ```bash
     !pip install -r /content/data/requirements.txt
     ```
-
-4. **Set up OpenAI API key**: To run the generation part, you'll need to set your OpenAI API key. Use the following code to securely enter your key:
-
-    ```python
-    from getpass import getpass
-
-    # Enter your OpenAI API key
-    OPENAI_API_KEY = getpass("Please enter your OpenAI API key: ")
-    ```
+4. **Download `punkt` module**: Run the following command to download necessary NLTK module:
+   ```bash
+   import nltk
+   nltk.download('punkt')
 
 ## References
 langchain 관련 문서들..
